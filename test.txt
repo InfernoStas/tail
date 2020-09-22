@@ -1,0 +1,2 @@
+       -I, --ignore=PATTERN
+              do not list implied entries matching shell PATTERN
